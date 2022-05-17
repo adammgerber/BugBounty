@@ -23,4 +23,4 @@ go install -v github.com/tomnomnom/anew@latest
 
 ```
 
-#### Runn this script on a Kali VM (make executable with chmod +x)
+#### Run this script on a Kali VM (make executable with chmod +x)
