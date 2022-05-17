@@ -1,4 +1,4 @@
-##prereqs for this script:
+## Prereqs for this script:
 
 1.) Install Go/Golang
 
@@ -25,4 +25,4 @@ go install -v github.com/tomnomnom/anew@latest
 
 ```
 
-####Runn this script on a Kali VM (make executable with chmod +x)
+#### Runn this script on a Kali VM (make executable with chmod +x)
